@@ -13,6 +13,13 @@ i:fundamentals/images/pixel.png:fundamentals/images/pixel-7633ab1e21935cde2f141c
 i:fundamentals/images/square32.png:fundamentals/images/square32-7ff0a788aeebee26cd45c9c9d7716a07.png:178:image/png:1
 i:fundamentals/images/square32Inverted.png:fundamentals/images/square32Inverted-7632cb2c5119f54e28feb3a2ad1a4c20.png:180:image/png:1
 i:fundamentals/images/weirdShape.png:fundamentals/images/weirdShape-e229518e90498e0cc90302068d942ead.png:7445:image/png:1
+d:loftaropio:loftaropio:0:application/unknown:1
+d:loftaropio/animations:loftaropio/animations:0:application/unknown:1
+i:loftaropio/animations/stickmanRunOutlinedAnimation.png:loftaropio/animations/stickmanRunOutlinedAnimation-36fa1970f71a2110d7684c465275016a.png:50741:image/png:1
+d:loftaropio/images:loftaropio/images:0:application/unknown:1
+i:loftaropio/images/frame.png:loftaropio/images/frame-9fd98e0e8bcae6ba567befc056865d01.png:3587:image/png:1
+i:loftaropio/images/playStoreEstratega.png:loftaropio/images/playStoreEstratega-65edb7d8ed0cf448b0e76ba1a167ee17.png:20820:image/png:1
+i:loftaropio/images/stickmanOutlined2.png:loftaropio/images/stickmanOutlined2-076f874e4e7d8be1e57b7e85f8e781fe.png:4811:image/png:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:particles.fragment-b90524761fdf09b0a836056d590c30b8.glsl:820:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:particles.vertex-f25b8b2fae10b9bfa09bfdd484923148.glsl:2886:application/unknown:1
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:default.fragment-e1c018bd48044c8b67c7bbc53145e540.glsl:5874:application/unknown:1
