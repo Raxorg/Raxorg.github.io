@@ -1,0 +1,43 @@
+body {
+  margin: 0px;
+  background-color: #2196f3;
+}
+
+.screen::before {
+  content: '';
+  position: absolute;
+  background: url('pageBG.png');
+  background-size: 64px 64px;
+  background-repeat: repeat;
+  animation: slide 30s linear infinite alternate;
+  opacity: 0.1;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  filter: grayscale();
+}
+@keyframes slide {
+  0% {
+    background-position: 0% 100%;
+  }
+  100% {
+    background-position: 100% 0%;
+  }
+}
+
+.da-button {
+  width: 200px;
+  height: 100px;
+  font-size: 40px;
+  position: absolute;
+  left: calc(50% - 100px);
+  top: calc(50% - 50px);
+  border-radius: 25px;
+  border-width: 10px;
+}
+
+.da-button:hover {
+  background-color: rgb(255, 0, 0);
+  color: white;
+}
